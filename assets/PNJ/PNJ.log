@@ -1,0 +1,86 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\PNJ\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  PNJ_Character, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:HeadTop_End, index:  6
+		processing begun of bone:  mixamorig:LeftShoulder, index:  7
+		processing begun of bone:  mixamorig:LeftArm, index:  8
+		processing begun of bone:  mixamorig:LeftForeArm, index:  9
+		processing begun of bone:  mixamorig:LeftHand, index:  10
+		processing begun of bone:  mixamorig:RightShoulder, index:  11
+		processing begun of bone:  mixamorig:RightArm, index:  12
+		processing begun of bone:  mixamorig:RightForeArm, index:  13
+		processing begun of bone:  mixamorig:RightHand, index:  14
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  15
+		processing begun of bone:  mixamorig:LeftLeg, index:  16
+		processing begun of bone:  mixamorig:LeftFoot, index:  17
+		processing begun of bone:  mixamorig:LeftToeBase, index:  18
+		processing begun of bone:  mixamorig:LeftToe_End, index:  19
+		processing begun of bone:  mixamorig:RightUpLeg, index:  20
+		processing begun of bone:  mixamorig:RightLeg, index:  21
+		processing begun of bone:  mixamorig:RightFoot, index:  22
+		processing begun of bone:  mixamorig:RightToeBase, index:  23
+		processing begun of bone:  mixamorig:RightToe_End, index:  24
+		processing action anim_a1:  in[1 - 133], out[0 - 133]
+		processing action anim_a2:  in[1 - 251], out[140 - 391]
+		processing action anim_a3:  in[1 - 26], out[400 - 426]
+		processing action anim_a4:  in[1 - 81], out[440 - 521]
+		processing action anim_a5:  in[1 - 327], out[530 - 857]
+		processing action anim_a6:  in[1 - 38], out[870 - 908]
+		processing action anim_a7:  in[1 - 321], out[920 - 1241]
+		processing action anim_tpose:  in[1 - 2], out[1250 - 1252]
+	processing begun of mesh:  PNJ
+		processing begun of material:  Robot_Body
+		processing begun of material:  Robot_Caoutchouc
+		processing begun of material:  Robot_Metal
+		processing begun of material:  Robot_Anteinne
+		processing begun of material:  Robot_Eyes
+		processing begun of material:  Robot_Ecran
+		processing begun of material:  Robot_Ecran_Bord
+		processing begun of material:  Robot_Bouton_1
+		processing begun of material:  Robot_Bouton_2
+		processing begun of material:  Robot_Bouton_3
+			processing texture metal8
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture rubber3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  PNJ.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  7743
+		num normals        :  7743
+		num tangents       :  30972
+		num uvs            :  15486
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12393
+		Skeleton stats:  
+			Total Influencers:  16510
+			Avg # of influencers per vertex:  2.1322
+			Highest # of influencers observed:  5, num vertices with this:  8
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  61944
+========= Writing of JSON file started =========
+	writing mesh:  PNJ
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.0503 secs

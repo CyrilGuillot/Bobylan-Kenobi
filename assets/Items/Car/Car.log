@@ -1,0 +1,64 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Items\Car\
+	Python World class constructor completed
+	processing begun of mesh:  Cube
+		processing begun of material:  Chassis
+		processing begun of material:  Vitre avant
+		processing begun of material:  Color_side
+		processing begun of material:  Red
+		processing begun of material:  Phares_avant
+		processing begun of multimaterial:  Car.Multimaterial#0
+		num positions      :  1357
+		num normals        :  1357
+		num tangents       :  0
+		num uvs            :  2714
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6792
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Chassis
+		processing begun of material:  Roue_avant
+		processing begun of multimaterial:  Car.Multimaterial#1
+		num positions      :  577
+		num normals        :  577
+		num tangents       :  0
+		num uvs            :  1154
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2232
+	processing begun of mesh:  Cylinder.001
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cylinder.002
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cylinder.003
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cylinder.004
+		processing begun of material:  Chassis
+		processing begun of material:  Roue_avant
+		registered as also a user of material:  Roue_avant
+		processing begun of multimaterial:  Car.Multimaterial#2
+		num positions      :  577
+		num normals        :  577
+		num tangents       :  0
+		num uvs            :  1154
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2232
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  Cylinder
+	writing mesh:  Cylinder.004
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.2795 secs

@@ -1,0 +1,362 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\Shop2\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane
+		processing begun of material:  Sol
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.002
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Black
+		processing begun of material:  Gold
+		processing begun of multimaterial:  Shop2.Multimaterial#0
+		num positions      :  605
+		num normals        :  605
+		num tangents       :  0
+		num uvs            :  1210
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  804
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Black
+		processing begun of material:  Gold
+		registered as also a user of material:  Gold
+		processing begun of multimaterial:  Shop2.Multimaterial#1
+		num positions      :  723
+		num normals        :  723
+		num tangents       :  0
+		num uvs            :  1446
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  894
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Material.001
+		processing begun of material:  Fond
+		processing begun of multimaterial:  Shop2.Multimaterial#2
+		num positions      :  312
+		num normals        :  312
+		num tangents       :  0
+		num uvs            :  624
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Black
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.006
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.000
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.007
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.008
+		mesh is an instance of :  Cube.002.  Processing halted.
+	processing begun of mesh:  Cube.009
+		mesh is an instance of :  Cube.003.  Processing halted.
+	processing begun of mesh:  Cube.010
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.011
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.012
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.013
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.014
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.015
+		mesh is an instance of :  Cube.002.  Processing halted.
+	processing begun of mesh:  Cube.016
+		mesh is an instance of :  Cube.003.  Processing halted.
+	processing begun of mesh:  Cube.017
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.018
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.019
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.020
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.021
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.022
+		mesh is an instance of :  Cube.002.  Processing halted.
+	processing begun of mesh:  Cube.023
+		mesh is an instance of :  Cube.003.  Processing halted.
+	processing begun of mesh:  Cube.024
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.025
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.026
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.027
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.028
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.029
+		mesh is an instance of :  Cube.002.  Processing halted.
+	processing begun of mesh:  Cube.030
+		mesh is an instance of :  Cube.003.  Processing halted.
+	processing begun of mesh:  Cube.031
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.032
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.033
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.034
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Plane.001
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.003
+		mesh is an instance of :  Plane.001.  Processing halted.
+	processing begun of mesh:  Plane.005
+		mesh is an instance of :  Plane.001.  Processing halted.
+	processing begun of mesh:  Plane.007
+		mesh is an instance of :  Plane.001.  Processing halted.
+	processing begun of mesh:  Cube
+		processing begun of material:  Comptoir1
+		processing begun of material:  Black
+		registered as also a user of material:  Black
+		processing begun of multimaterial:  Shop2.Multimaterial#3
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  0
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cube.035
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Black
+		processing begun of material:  Comptoir1
+		processing begun of multimaterial:  Shop2.Multimaterial#4
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.037
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.038
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.039
+		mesh is an instance of :  Cube.036.  Processing halted.
+	processing begun of mesh:  Cube.040
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.041
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Cube.042
+		mesh is an instance of :  Cube.002.  Processing halted.
+	processing begun of mesh:  Cube.043
+		mesh is an instance of :  Cube.003.  Processing halted.
+	processing begun of mesh:  Cube.044
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.045
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.046
+		mesh is an instance of :  Cube.004.  Processing halted.
+	processing begun of mesh:  Cube.047
+		mesh is an instance of :  Cube.001.  Processing halted.
+	processing begun of mesh:  Plane.004
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.008
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Screen
+		processing begun of material:  ScreenColor.001
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Terminal.001
+		processing begun of material:  Terminal.001
+		processing begun of material:  Keyboard.001
+		processing begun of material:  Terminal_metal2.001
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture keyboard
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Shop2.Multimaterial#5
+		num positions      :  515
+		num normals        :  515
+		num tangents       :  0
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_jupiter
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Shop2.Multimaterial#6
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.050
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_grand_tour
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Shop2.Multimaterial#7
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image4
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_kepler16b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Shop2.Multimaterial#8
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Black
+		registered as also a user of material:  Black
+		num positions      :  247
+		num normals        :  247
+		num tangents       :  0
+		num uvs            :  494
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.001
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cylinder.002
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cylinder.003
+		mesh is an instance of :  Cylinder.  Processing halted.
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Black
+		registered as also a user of material:  Black
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.006
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.009
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.010
+		mesh is an instance of :  Plane.006.  Processing halted.
+	processing begun of mesh:  Plane.011
+		mesh is an instance of :  Plane.009.  Processing halted.
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Plane.002
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Plane.001
+	writing mesh:  Cube
+	writing mesh:  Cube.036
+	writing mesh:  Plane.004
+	writing mesh:  Plane.008
+	writing mesh:  Screen
+	writing mesh:  Terminal.001
+	writing mesh:  Cube.051
+	writing mesh:  Cube.050
+	writing mesh:  Cube.049
+	writing mesh:  Cylinder
+	writing mesh:  Cube.048
+	writing mesh:  Plane.006
+	writing mesh:  Plane.009
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1594 secs

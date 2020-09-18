@@ -1,0 +1,1318 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\Parc\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Mur
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  514
+		num normals        :  514
+		num tangents       :  0
+		num uvs            :  1028
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  Plane
+		processing begun of material:  Sol
+			processing texture stone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Object.000
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Parc.Multimaterial#0
+		num positions      :  188
+		num normals        :  188
+		num tangents       :  0
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  273
+	processing begun of mesh:  Object.015
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#1
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#2
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#3
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#4
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#5
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Lampadaire
+		processing begun of material:  Lampadaire_lumière
+		processing begun of material:  Lampadaire_metal
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Parc.Multimaterial#6
+		num positions      :  2190
+		num normals        :  2190
+		num tangents       :  0
+		num uvs            :  4380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6900
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Lampadaire
+		processing begun of material:  Lampadaire_lumière
+		processing begun of material:  Lampadaire_metal
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Lampadaire_lumière
+		registered as also a user of material:  Lampadaire_metal
+		processing begun of multimaterial:  Parc.Multimaterial#7
+		num positions      :  2190
+		num normals        :  2190
+		num tangents       :  0
+		num uvs            :  4380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6900
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Lampadaire
+		processing begun of material:  Lampadaire_lumière
+		processing begun of material:  Lampadaire_metal
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Lampadaire_lumière
+		registered as also a user of material:  Lampadaire_metal
+		processing begun of multimaterial:  Parc.Multimaterial#8
+		num positions      :  2190
+		num normals        :  2190
+		num tangents       :  0
+		num uvs            :  4380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6900
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Lampadaire
+		processing begun of material:  Lampadaire_lumière
+		processing begun of material:  Lampadaire_metal
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Lampadaire_lumière
+		registered as also a user of material:  Lampadaire_metal
+		processing begun of multimaterial:  Parc.Multimaterial#9
+		num positions      :  2190
+		num normals        :  2190
+		num tangents       :  0
+		num uvs            :  4380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6900
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Lampadaire
+		processing begun of material:  Lampadaire_lumière
+		processing begun of material:  Lampadaire_metal
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Lampadaire_lumière
+		registered as also a user of material:  Lampadaire_metal
+		processing begun of multimaterial:  Parc.Multimaterial#10
+		num positions      :  2190
+		num normals        :  2190
+		num tangents       :  0
+		num uvs            :  4380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6900
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Table
+		processing begun of material:  Table_neon
+		processing begun of material:  Table_surface
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture stone3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Parc.Multimaterial#11
+		num positions      :  467
+		num normals        :  467
+		num tangents       :  0
+		num uvs            :  934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  744
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Object.009
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#12
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.010
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#13
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.008
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#14
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.011
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#15
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.012
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#16
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.013
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#17
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.014
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#18
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.001
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#19
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.002
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#20
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.003
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#21
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.004
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#22
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.005
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#23
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.006
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#24
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.007
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#25
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.016
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#26
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.037
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#27
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.038
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#28
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.039
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#29
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.017
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#30
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.018
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#31
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.019
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#32
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.020
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#33
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.021
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#34
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.022
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#35
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.023
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#36
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.024
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#37
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.025
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#38
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.026
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#39
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.027
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#40
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.028
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#41
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.029
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#42
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.030
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#43
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.031
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#44
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.032
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#45
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.033
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#46
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.034
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#47
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.035
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#48
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.036
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#49
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Object.040
+		processing begun of material:  Barrière
+		processing begun of material:  Barrière_plate
+		processing begun of material:  Barrière_cylindre
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Barrière_plate
+		registered as also a user of material:  Barrière_cylindre
+		processing begun of multimaterial:  Parc.Multimaterial#50
+		num positions      :  558
+		num normals        :  558
+		num tangents       :  0
+		num uvs            :  1116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.000
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#51
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#52
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#53
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cylinder.000
+		processing begun of material:  Table
+		processing begun of material:  Table_neon
+		processing begun of material:  Table_surface
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Table_neon
+		registered as also a user of material:  Table_surface
+		processing begun of multimaterial:  Parc.Multimaterial#54
+		num positions      :  467
+		num normals        :  467
+		num tangents       :  0
+		num uvs            :  934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  744
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#55
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#56
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#57
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Table
+		processing begun of material:  Table_neon
+		processing begun of material:  Table_surface
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Table_neon
+		registered as also a user of material:  Table_surface
+		processing begun of multimaterial:  Parc.Multimaterial#58
+		num positions      :  467
+		num normals        :  467
+		num tangents       :  0
+		num uvs            :  934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  744
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#59
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#60
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#61
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#62
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cylinder.003
+		processing begun of material:  Table
+		processing begun of material:  Table_neon
+		processing begun of material:  Table_surface
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Table_neon
+		registered as also a user of material:  Table_surface
+		processing begun of multimaterial:  Parc.Multimaterial#63
+		num positions      :  467
+		num normals        :  467
+		num tangents       :  0
+		num uvs            :  934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  744
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#64
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#65
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Tissue
+		processing begun of material:  Chaise_fer
+		registered as also a user of material:  Chaise_fer
+		processing begun of multimaterial:  Parc.Multimaterial#66
+		num positions      :  506
+		num normals        :  506
+		num tangents       :  0
+		num uvs            :  1012
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cylinder.004
+		processing begun of material:  Table
+		processing begun of material:  Table_neon
+		processing begun of material:  Table_surface
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Table_neon
+		registered as also a user of material:  Table_surface
+		processing begun of multimaterial:  Parc.Multimaterial#67
+		num positions      :  467
+		num normals        :  467
+		num tangents       :  0
+		num uvs            :  934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  744
+	processing begun of mesh:  Cube
+		processing begun of material:  Stone
+			processing texture stone3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Building1
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_1_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building1_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.3475 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Building2
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_2_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building2_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.6075 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Building3
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_3_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building3_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.645 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.030
+		processing begun of material:  Building1
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_1_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building1_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.5222 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Building2
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_2_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building2_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.7866 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Building2
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_2_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building2_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.5422 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Building1
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_1_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building1_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.5533 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Building1
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_1_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building1_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.729 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Pont
+		processing begun of material:  Light
+		processing begun of material:  Light3
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Parc.Multimaterial#68
+		num positions      :  505
+		num normals        :  505
+		num tangents       :  0
+		num uvs            :  1010
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  642
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Building1
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_1_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Building1_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.6418 secs
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Building2
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture building_2_emissive
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+========= An error was encountered =========
+  File "C:\Users\cyril\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\json_exporter.py", line 111, in execute
+    mesh = Mesh(object, scene, self)
+  File "C:\Users\cyril\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\mesh.py", line 146, in __init__
+    recipe = BakingRecipe(bpyMesh, exporter)
+  File "C:\Users\cyril\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\baking_recipe.py", line 105, in __init__
+    self.bakedMaterial.bake(bpyMesh, self)
+  File "C:\Users\cyril\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\material.py", line 161, in bake
+    self.bakeChannel(DIFFUSE_TEX , 'DIFFUSE', usePNG, recipe.node_trees, bpyMesh)
+  File "C:\Users\cyril\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\material.py", line 209, in bakeChannel
+    bpy.ops.object.bake(type = bake_type, use_clear = True, margin = 5, use_selected_to_active = False)
+  File "C:\Program Files\Blender Foundation\Blender 2.81\2.81\scripts\modules\bpy\ops.py", line 201, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+ERROR:  Error: No valid selected objects
+
+========= end of processing =========
+elapsed time:  0 min, 34.443 secs

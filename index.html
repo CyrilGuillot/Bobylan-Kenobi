@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+    <title>Bobylan Kenobi</title>
+
+    <script src="lib/babylon.js"></script>
+    <script src="lib/babylon.max.js"></script>
+    <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
+    <script src="lib/cannon.js"></script>
+    <script src="lib/babylon.gui.js"></script>
+
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        #renderCanvas {
+            width: 100%;
+            height: 100%;
+            display: block;
+            font-size: 0;
+        }
+
+        @font-face {
+            font-family: bonVoyageFont;
+            src: url(assets/fonts/bon_voyage.otf);
+        }
+        @font-face {
+            font-family: lemonMilkFont;
+            src: url(assets/fonts/lemon_milk.otf);
+        }
+        @font-face {
+            font-family: aerolite;
+            src: url(assets/fonts/aerolite.otf);
+        }
+
+    </style>
+</head>
+
+<body>
+    <canvas id="renderCanvas" touch-action="none"></canvas>
+    <script src="src/Utils/Utils.js"></script>
+    <script src="src/Arenas/ArenaLocations.js"></script>
+    <script src="src/Mini-Games/TerminalGame/TerminalGame.js"></script>
+    <script src="src/Mini-Games/TerminalGame/TerminalGameConfig.js"></script>
+    <script src="src/Mini-Games/TerminalGame/TerminalGameConfigList.js"></script>
+    <script src="src/Game/GUIRenderer.js"></script>
+    <script src="src/Items/Item.js"></script>
+    <script src="src/Interactions/PNJ.js"></script>
+    <script src="src/Interactions/Dialogue/Sentence.js"></script>
+    <script src="src/Interactions/Dialogue/SentencesSet.js"></script>
+    <script src="src/Interactions/Dialogue/Monologue.js"></script>
+    <script src="src/Player/Player.js"></script>
+    <script src="src/Arenas/ArenaBuilder.js"></script>
+    <script src="src/Arenas/Arena.js"></script>
+    <script src="src/Arenas/PlayableArena.js"></script>
+    <script src="src/Arenas/SimpleArena.js"></script>
+    <script src="src/Mini-Games/CipherGame/cipherClass/Component.js"></script>
+    <script src="src/Mini-Games/CipherGame/cipherClass/Grid.js"></script>
+    <script src="src/Mini-Games/CipherGame/cipherClass/Polynomial.js"></script>
+    <script src="src/Mini-Games/CipherGame/cipherClass/Rule.js"></script>
+    <script src="src/Mini-Games/CipherGame/cipherClass/Square.js"></script>
+    <script src="src/Mini-Games/CipherGame/CipherGame.js"></script>
+    <script src="src/Mini-Games/CipherGame/frameMaker.js"></script>
+    <script src="src/Mini-Games/CipherGame/levels/level1.js"></script>
+    <script src="src/Mini-Games/CipherGame/levels/level2.js"></script>
+    <script src="src/Mini-Games/PuzzleGame/PuzzleGame.js"></script>
+    <script src="src/Puzzles/Puzzle_5_V2.js"></script>
+    <script src="src/Puzzles/Puzzle_8_V1.js"></script>
+    <script src="src/Puzzles/Puzzle_8_V3.js"></script>
+    <script src="src/Interactions/Paper.js"></script>
+    <script src="src/Player/Animations.js"></script>
+    <script src="src/Interactions/InteractivePosition/InteractivePosition.js"></script>
+    <script src="src/Interactions/InteractivePosition/InteractiveHandler.js"></script>
+    <script src="src/Interactions/Automaticposition/AutomaticHandler.js"></script>
+    <script src="src/Interactions/Automaticposition/AutomaticEvent.js"></script>
+    <script src="src/Scenes/Depot.js"></script>
+    <script src="src/Scenes/Crime.js"></script>
+    <script src="src/Scenes/Intro.js"></script>
+    <script src="src/Scenes/Hall.js"></script>
+    <script src="src/Scenes/CrimeSide.js"></script>
+    <script src="src/Scenes/Alley.js"></script>
+    <script src="src/Scenes/Alley2.js"></script>
+    <script src="src/Scenes/Square.js"></script>
+    <script src="src/Scenes/Parc.js"></script>
+    <script src="src/Scenes/Bureau.js"></script>
+    <script src="src/Scenes/Bar.js"></script>
+    <script src="src/Scenes/Shop1.js"></script>
+    <script src="src/Scenes/Shop2.js"></script>
+    <script src="src/Scenes/Test.js"></script>
+    <script src="src/Scenes/Stairs.js"></script>
+    <script src="src/Scenes/Road1.js"></script>
+    <script src="src/Scenes/CrimeRoom.js"></script>
+    <script src="src/Scenes/Room.js"></script>
+    <script src="src/Game/RulesRenderer.js"></script>
+    <script src="src/Game/GameState.js"></script>
+    <script src="src/Game/GameLoadingUI.js"></script>
+    <script src="src/Game/Game.js"></script>
+</body>
+
+</html>

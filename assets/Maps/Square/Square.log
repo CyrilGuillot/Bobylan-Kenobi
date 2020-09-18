@@ -1,0 +1,1155 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Maps\Square\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane
+		processing begun of material:  Sol
+			processing texture pavement
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Fontaine
+		processing begun of material:  Fontaine2
+			processing texture stone
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Square.Multimaterial#0
+		num positions      :  825
+		num normals        :  825
+		num tangents       :  0
+		num uvs            :  1650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2292
+	processing begun of mesh:  Cube
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wall3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Square.Multimaterial#1
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Square.Multimaterial#2
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Square.Multimaterial#3
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#4
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.005
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#5
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#6
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#7
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#8
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.010
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#9
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#10
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#11
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#12
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.015
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#13
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#14
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#15
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#16
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.020
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#17
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#18
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#19
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#20
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.025
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#21
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#22
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#23
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#24
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.030
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#25
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#26
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#27
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#28
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.035
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#29
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#30
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#31
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.038
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#32
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.039
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.040
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#33
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.041
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#34
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#35
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#36
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.045
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#37
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#38
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#39
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#40
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.050
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#41
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#42
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.052
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#43
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.053
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#44
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.054
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  notCube.055
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#45
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.056
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#46
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.057
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#47
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.058
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#48
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.059
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Pillier
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  250
+		num normals        :  250
+		num tangents       :  0
+		num uvs            :  500
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  notCube.070
+		processing begun of material:  Magasin
+		processing begun of material:  Magasin_bords
+		processing begun of material:  Magasin_bord2
+		processing begun of material:  Glass
+			processing texture wall1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Magasin_bords
+		registered as also a user of material:  Magasin_bord2
+		registered as also a user of material:  Glass
+		processing begun of multimaterial:  Square.Multimaterial#49
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  Cube.071
+		processing begun of material:  Pancarte
+		processing begun of material:  Pancarte_bord
+		processing begun of material:  Neon
+		processing begun of material:  Pancarte_bord2
+		processing begun of material:  Pancarte_écran
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pancarte_bord
+		registered as also a user of material:  Neon
+		registered as also a user of material:  Pancarte_bord2
+		registered as also a user of material:  Pancarte_écran
+		processing begun of multimaterial:  Square.Multimaterial#50
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+	processing begun of mesh:  Cube.072
+		processing begun of material:  Briques
+		processing begun of material:  Briques_inside
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Briques_inside
+		processing begun of multimaterial:  Square.Multimaterial#51
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.073
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of material:  Neon
+			processing texture energy_pol
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Square.Multimaterial#52
+		num positions      :  1245
+		num normals        :  1245
+		num tangents       :  0
+		num uvs            :  2490
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+	processing begun of mesh:  Cube.074
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  InvisibleBlock
+		processing begun of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InvisibleBlock.001
+		processing begun of material:  CollisionMat.001
+		registered as also a user of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.001
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Cylinder
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  notCube.005
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  notCube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  notCube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  notCube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  notCube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.029
+	writing mesh:  notCube.030
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.033
+	writing mesh:  Cube.034
+	writing mesh:  notCube.035
+	writing mesh:  Cube.036
+	writing mesh:  Cube.037
+	writing mesh:  Cube.038
+	writing mesh:  Cube.039
+	writing mesh:  notCube.040
+	writing mesh:  Cube.041
+	writing mesh:  Cube.042
+	writing mesh:  Cube.043
+	writing mesh:  Cube.044
+	writing mesh:  notCube.045
+	writing mesh:  Cube.046
+	writing mesh:  Cube.047
+	writing mesh:  Cube.048
+	writing mesh:  Cube.049
+	writing mesh:  notCube.050
+	writing mesh:  Cube.051
+	writing mesh:  Cube.052
+	writing mesh:  Cube.053
+	writing mesh:  Cube.054
+	writing mesh:  notCube.055
+	writing mesh:  Cube.056
+	writing mesh:  Cube.057
+	writing mesh:  Cube.058
+	writing mesh:  Cube.059
+	writing mesh:  Cylinder.001
+	writing mesh:  notCube.070
+	writing mesh:  Cube.071
+	writing mesh:  Cube.072
+	writing mesh:  Cube.073
+	writing mesh:  Cube.074
+	writing mesh:  InvisibleBlock
+	writing mesh:  InvisibleBlock.001
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.6321 secs

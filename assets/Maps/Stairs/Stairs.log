@@ -1,0 +1,714 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Maps\Stairs\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane.002
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	WARNING: mesh, Plane.002, has 0 vertices; ignored
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Pleinte
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.005
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#0
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Plane.008
+		processing begun of material:  Sol
+			processing texture wood8
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.010
+		processing begun of material:  Stair
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  366
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Stair2
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  216
+	processing begun of mesh:  Plane.012
+		processing begun of material:  Stair
+		registered as also a user of material:  Stair
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  366
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Stair2
+		registered as also a user of material:  Stair2
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  216
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Wall2
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Wall2
+		registered as also a user of material:  Wall2
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.014
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#1
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#2
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#3
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.000
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#4
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.006
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Porte_inside
+		registered as also a user of material:  Porte_poignée
+		processing begun of multimaterial:  Stairs.Multimaterial#5
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Plane.009
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#6
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.013
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#7
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.015
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+		processing begun of material:  Bas
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Pleinte
+		registered as also a user of material:  Bas
+		processing begun of multimaterial:  Stairs.Multimaterial#8
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Porte_inside
+		registered as also a user of material:  Porte_poignée
+		processing begun of multimaterial:  Stairs.Multimaterial#9
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Plane.007
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Porte_inside
+		registered as also a user of material:  Porte_poignée
+		processing begun of multimaterial:  Stairs.Multimaterial#10
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Plane.011
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Porte_inside
+		registered as also a user of material:  Porte_poignée
+		processing begun of multimaterial:  Stairs.Multimaterial#11
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube
+		processing begun of material:  Material
+		processing begun of material:  Marbre
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture marbre
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#12
+		num positions      :  335
+		num normals        :  335
+		num tangents       :  0
+		num uvs            :  670
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  444
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Paillasson
+		processing begun of material:  Paillasson2
+			processing texture paillasson
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#13
+		num positions      :  94
+		num normals        :  94
+		num tangents       :  0
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Paillasson
+		processing begun of material:  Paillasson2
+			processing texture paillasson
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Paillasson2
+		processing begun of multimaterial:  Stairs.Multimaterial#14
+		num positions      :  94
+		num normals        :  94
+		num tangents       :  0
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Paillasson
+		processing begun of material:  Paillasson2
+			processing texture paillasson
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Paillasson2
+		processing begun of multimaterial:  Stairs.Multimaterial#15
+		num positions      :  94
+		num normals        :  94
+		num tangents       :  0
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Paillasson
+		processing begun of material:  Paillasson2
+			processing texture paillasson
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Paillasson2
+		processing begun of multimaterial:  Stairs.Multimaterial#16
+		num positions      :  94
+		num normals        :  94
+		num tangents       :  0
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Lampe_metal
+		processing begun of material:  Lampe_light
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#17
+		num positions      :  437
+		num normals        :  437
+		num tangents       :  0
+		num uvs            :  874
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1368
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Carton
+			processing texture carton
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.057
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of multimaterial:  Stairs.Multimaterial#18
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.058
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Stairs.Multimaterial#19
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.106
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Stairs.Multimaterial#20
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Stairs.Multimaterial#21
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Stairs.Multimaterial#22
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Stairs.Multimaterial#23
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Stairs.Multimaterial#24
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.162
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image12
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_kepler186f
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#25
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau image 13
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_jupiter
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Stairs.Multimaterial#26
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Lampe_metal
+		processing begun of material:  Lampe_light
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Lampe_light
+		processing begun of multimaterial:  Stairs.Multimaterial#27
+		num positions      :  437
+		num normals        :  437
+		num tangents       :  0
+		num uvs            :  874
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1368
+	processing begun of mesh:  InvisibleBlock
+		processing begun of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InvisibleBlock.001
+		processing begun of material:  CollisionMat.001
+		registered as also a user of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Point
+	processing begun of light (SPOT):  Lampe_spot
+	processing begun of shadows for light:  Lampe_spot
+	processing begun of light (SPOT):  Lampe_spot.001
+	processing begun of shadows for light:  Lampe_spot.001
+	processing begun of light (POINT):  Point.002
+	processing begun of light (POINT):  Point.003
+	processing begun of light (POINT):  Point.001
+========= Writing of JSON file started =========
+	writing mesh:  Cube.004
+	writing mesh:  Cube.006
+	writing mesh:  Plane.005
+	writing mesh:  Plane.008
+	writing mesh:  Cube.005
+	writing mesh:  Plane.010
+	writing mesh:  Cube.013
+	writing mesh:  Plane.012
+	writing mesh:  Cube.012
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.027
+	writing mesh:  Plane.014
+	writing mesh:  Plane.001
+	writing mesh:  Plane.003
+	writing mesh:  Plane.000
+	writing mesh:  Plane.006
+	writing mesh:  Plane.009
+	writing mesh:  Plane.013
+	writing mesh:  Plane.015
+	writing mesh:  Plane.004
+	writing mesh:  Plane.007
+	writing mesh:  Plane.011
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.007
+	writing mesh:  Cylinder
+	writing mesh:  Cube.011
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.057
+	writing mesh:  Cube.058
+	writing mesh:  Cube.106
+	writing mesh:  Cube.010
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.162
+	writing mesh:  Cube.020
+	writing mesh:  Cylinder.001
+	writing mesh:  InvisibleBlock
+	writing mesh:  InvisibleBlock.001
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.1022 secs

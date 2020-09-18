@@ -1,0 +1,2242 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Maps\Bureau\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Sol
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Bueau
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  193
+		num normals        :  193
+		num tangents       :  0
+		num uvs            :  386
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Etagère
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Casier
+		processing begun of material:  Casier_poignée
+			processing texture metal2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#0
+		num positions      :  195
+		num normals        :  195
+		num tangents       :  0
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.017
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.020
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.022
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Monde_carte
+		processing begun of material:  Monde_base
+			processing texture earth
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#1
+		num positions      :  1253
+		num normals        :  1253
+		num tangents       :  0
+		num uvs            :  2506
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5238
+	processing begun of mesh:  Cube.000
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.015
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.016
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.018
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.019
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Cube.021
+		mesh is an instance of :  Cube.014.  Processing halted.
+	processing begun of mesh:  Plane.007
+		processing begun of material:  Mur
+		processing begun of material:  Pleinte
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#2
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  0
+		num uvs            :  68
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  54
+	processing begun of mesh:  Cube
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Etagère
+		registered as also a user of material:  Etagère
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Fenetre_ext
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Fenetre_int
+		num positions      :  417
+		num normals        :  417
+		num tangents       :  0
+		num uvs            :  834
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  516
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Material.002
+		num positions      :  377
+		num normals        :  377
+		num tangents       :  0
+		num uvs            :  754
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  468
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Material.001
+		num positions      :  87
+		num normals        :  87
+		num tangents       :  0
+		num uvs            :  174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  493
+		num normals        :  493
+		num tangents       :  0
+		num uvs            :  986
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  612
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  87
+		num normals        :  87
+		num tangents       :  0
+		num uvs            :  174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  377
+		num normals        :  377
+		num tangents       :  0
+		num uvs            :  754
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  468
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  87
+		num normals        :  87
+		num tangents       :  0
+		num uvs            :  174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Carton
+			processing texture carton
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Canapé
+			processing texture leather2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1126
+		num normals        :  1126
+		num tangents       :  0
+		num uvs            :  2252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2403
+	processing begun of mesh:  Cube.030
+		processing begun of material:  Chaise_bois
+		processing begun of material:  Chaise_leather
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#3
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Chaise_bois
+		processing begun of material:  Chaise_leather
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Chaise_leather
+		processing begun of multimaterial:  Bureau.Multimaterial#4
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Chaise_bois
+		processing begun of material:  Chaise_leather
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Chaise_leather
+		processing begun of multimaterial:  Bureau.Multimaterial#5
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Chaise_bois
+		processing begun of material:  Chaise_leather
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Chaise_leather
+		processing begun of multimaterial:  Bureau.Multimaterial#6
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Curtain
+			processing texture curtain
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  258
+		num normals        :  258
+		num tangents       :  0
+		num uvs            :  516
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Curtain
+		registered as also a user of material:  Curtain
+		num positions      :  258
+		num normals        :  258
+		num tangents       :  0
+		num uvs            :  516
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Tringle
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  71
+		num normals        :  71
+		num tangents       :  0
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Chaise_bois
+		processing begun of material:  Chaise_leather
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Chaise_leather
+		processing begun of multimaterial:  Bureau.Multimaterial#7
+		num positions      :  644
+		num normals        :  644
+		num tangents       :  0
+		num uvs            :  1288
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  858
+	processing begun of mesh:  Cube.038
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#8
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.039
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#9
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.040
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#10
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.041
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#11
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#12
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#13
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#14
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.045
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#15
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#16
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#17
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#18
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#19
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#20
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#21
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.050
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#22
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.052
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#23
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.053
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#24
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.054
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#25
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.055
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#26
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Metal_lampe
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  0
+		num uvs            :  416
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  660
+	processing begun of mesh:  Cube.056
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#27
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.057
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#28
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.058
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#29
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.059
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#30
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.060
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#31
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.061
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.062
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.063
+		processing begun of material:  Pleinte
+		registered as also a user of material:  Pleinte
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.064
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.065
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#32
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.066
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#33
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.067
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#34
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.068
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.069
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#35
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.070
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#36
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.071
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#37
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Plane.011
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#38
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.072
+		processing begun of material:  Casier
+		processing begun of material:  Casier_poignée
+			processing texture metal2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Casier_poignée
+		processing begun of multimaterial:  Bureau.Multimaterial#39
+		num positions      :  195
+		num normals        :  195
+		num tangents       :  0
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.073
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.074
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.075
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.076
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.077
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.078
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.079
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.080
+		mesh is an instance of :  Cube.072.  Processing halted.
+	processing begun of mesh:  Cube.081
+		processing begun of material:  Casier
+		processing begun of material:  Casier_poignée
+			processing texture metal2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Casier_poignée
+		processing begun of multimaterial:  Bureau.Multimaterial#40
+		num positions      :  195
+		num normals        :  195
+		num tangents       :  0
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.082
+		mesh is an instance of :  Cube.081.  Processing halted.
+	processing begun of mesh:  Cube.083
+		mesh is an instance of :  Cube.081.  Processing halted.
+	processing begun of mesh:  Cube.084
+		processing begun of material:  Casier
+		processing begun of material:  Casier_poignée
+			processing texture metal2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Casier_poignée
+		processing begun of multimaterial:  Bureau.Multimaterial#41
+		num positions      :  195
+		num normals        :  195
+		num tangents       :  0
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.085
+		mesh is an instance of :  Cube.084.  Processing halted.
+	processing begun of mesh:  Cube.086
+		mesh is an instance of :  Cube.084.  Processing halted.
+	processing begun of mesh:  Cube.087
+		processing begun of material:  Casier
+		processing begun of material:  Casier_poignée
+			processing texture metal2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Casier_poignée
+		processing begun of multimaterial:  Bureau.Multimaterial#42
+		num positions      :  195
+		num normals        :  195
+		num tangents       :  0
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.088
+		mesh is an instance of :  Cube.087.  Processing halted.
+	processing begun of mesh:  Cube.089
+		mesh is an instance of :  Cube.087.  Processing halted.
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#43
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.090
+		processing begun of material:  Meuble2
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  71
+		num normals        :  71
+		num tangents       :  0
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.091
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#44
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.092
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#45
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.093
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#46
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.094
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#47
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  354
+	processing begun of mesh:  Cube.095
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#48
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.096
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#49
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.097
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#50
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.098
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#51
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.099
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#52
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.100
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#53
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.101
+		processing begun of material:  Casier_poignée
+		processing begun of material:  Casier2
+		registered as also a user of material:  Casier2
+		processing begun of multimaterial:  Bureau.Multimaterial#54
+		num positions      :  218
+		num normals        :  218
+		num tangents       :  0
+		num uvs            :  436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270
+	processing begun of mesh:  Cube.102
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.103
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#55
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.104
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#56
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.105
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#57
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.106
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#58
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.107
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#59
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.108
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#60
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.109
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#61
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.110
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#62
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.111
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#63
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.112
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#64
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.113
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#65
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.114
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#66
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.115
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#67
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.116
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#68
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.117
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		registered as also a user of material:  Livre_pages
+		processing begun of multimaterial:  Bureau.Multimaterial#69
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.118
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#70
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.119
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#71
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.120
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#72
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.124
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#73
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.125
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#74
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.126
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#75
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.127
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#76
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.128
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#77
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.129
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#78
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.130
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#79
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.131
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#80
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.132
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#81
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.133
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#82
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.134
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#83
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.135
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#84
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.136
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#85
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.137
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#86
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.138
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#87
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.139
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#88
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.140
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#89
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.141
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#90
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.142
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#91
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.143
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.144
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#92
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.145
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#93
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.146
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#94
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.147
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.148
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#95
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.149
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#96
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.150
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#97
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.151
+		processing begun of material:  Carton
+		registered as also a user of material:  Carton
+		num positions      :  185
+		num normals        :  185
+		num tangents       :  0
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.152
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#98
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.153
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#99
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.154
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#100
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.155
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul4
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul4
+		processing begun of multimaterial:  Bureau.Multimaterial#101
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.156
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_couv0
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_couv0
+		processing begun of multimaterial:  Bureau.Multimaterial#102
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.157
+		processing begun of material:  Livre_couv0.001
+		processing begun of material:  Livre_pages
+		processing begun of material:  Livre_coul3
+		registered as also a user of material:  Livre_pages
+		registered as also a user of material:  Livre_coul3
+		processing begun of multimaterial:  Bureau.Multimaterial#103
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.158
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#104
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.159
+		processing begun of material:  Folder
+		processing begun of material:  Paper
+		registered as also a user of material:  Paper
+		processing begun of multimaterial:  Bureau.Multimaterial#105
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Cube.160
+		processing begun of material:  Tableau_bord2
+		processing begun of material:  GOW
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture gow2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#106
+		num positions      :  53
+		num normals        :  53
+		num tangents       :  0
+		num uvs            :  106
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Terminal
+		processing begun of material:  Terminal
+		processing begun of material:  Keyboard
+		processing begun of material:  Terminal_metal2
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture keyboard
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#107
+		num positions      :  515
+		num normals        :  515
+		num tangents       :  0
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  Screen
+		processing begun of material:  ScreenColor
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane
+		processing begun of material:  City
+			processing texture city
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.005
+		processing begun of material:  City
+		registered as also a user of material:  City
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.002
+		processing begun of material:  City
+		registered as also a user of material:  City
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Ventilo_pilier
+		processing begun of material:  Ventilateur
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  404
+		num normals        :  404
+		num tangents       :  0
+		num uvs            :  808
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  948
+	processing begun of mesh:  Ventilateur
+		processing begun of material:  Ventilateur
+		processing begun of material:  Vent2
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#108
+		num positions      :  882
+		num normals        :  882
+		num tangents       :  0
+		num uvs            :  1764
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1392
+	processing begun of mesh:  Lampe
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#109
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of mesh:  Lampe.001
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Glow_white_mat
+		processing begun of multimaterial:  Bureau.Multimaterial#110
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of mesh:  Lampe.002
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Glow_white_mat
+		processing begun of multimaterial:  Bureau.Multimaterial#111
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of mesh:  Lampe.003
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Glow_white_mat
+		processing begun of multimaterial:  Bureau.Multimaterial#112
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of mesh:  Cube.162
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image12
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_enceladus
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Bureau.Multimaterial#113
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Mur
+			processing texture wallpaper4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.006
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.008
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Radio
+		processing begun of material:  Radio
+		processing begun of material:  Color
+		processing begun of material:  Metal
+		processing begun of material:  Code
+		processing begun of multimaterial:  Bureau.Multimaterial#114
+		num positions      :  2074
+		num normals        :  2074
+		num tangents       :  0
+		num uvs            :  4148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5220
+	processing begun of mesh:  Cube.163
+		processing begun of material:  Radio
+		processing begun of material:  Color
+		registered as also a user of material:  Color
+		processing begun of multimaterial:  Bureau.Multimaterial#115
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.165
+		processing begun of material:  Canapé
+		registered as also a user of material:  Canapé
+		num positions      :  1126
+		num normals        :  1126
+		num tangents       :  0
+		num uvs            :  2252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2403
+	processing begun of mesh:  Radio_table
+		processing begun of material:  Bueau
+		registered as also a user of material:  Bueau
+		num positions      :  193
+		num normals        :  193
+		num tangents       :  0
+		num uvs            :  386
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Lampe.004
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Glow_white_mat
+		processing begun of multimaterial:  Bureau.Multimaterial#116
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of mesh:  Lampe.005
+		processing begun of material:  Material
+		processing begun of material:  Glow_white_mat
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Glow_white_mat
+		processing begun of multimaterial:  Bureau.Multimaterial#117
+		num positions      :  696
+		num normals        :  696
+		num tangents       :  0
+		num uvs            :  1392
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1908
+	processing begun of light (POINT):  Point2
+	processing begun of light (SPOT):  Spot
+	processing begun of shadows for light:  Spot
+	processing begun of light (SPOT):  Spot.002
+	processing begun of light (SPOT):  Spot.001
+	processing begun of light (SPOT):  Spot.003
+	processing begun of light (SPOT):  Spot.004
+	processing begun of light (SPOT):  Spot.005
+	processing begun of light (SPOT):  Spot.006
+	processing begun of light (SPOT):  Spot.007
+========= Writing of JSON file started =========
+	writing mesh:  Plane.001
+	writing mesh:  Cube.001
+	writing mesh:  Cube.008
+	writing mesh:  Cube.014
+	writing mesh:  Cylinder
+	writing mesh:  Plane.007
+	writing mesh:  Cube
+	writing mesh:  Cube.007
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.033
+	writing mesh:  Cube.036
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.004
+	writing mesh:  Cube.005
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.029
+	writing mesh:  Cube.003
+	writing mesh:  Cube.030
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.034
+	writing mesh:  Cube.035
+	writing mesh:  Cube.037
+	writing mesh:  Cylinder.001
+	writing mesh:  Cube.006
+	writing mesh:  Cube.038
+	writing mesh:  Cube.039
+	writing mesh:  Cube.040
+	writing mesh:  Cube.041
+	writing mesh:  Cube.042
+	writing mesh:  Cube.043
+	writing mesh:  Cube.044
+	writing mesh:  Cube.045
+	writing mesh:  Cube.046
+	writing mesh:  Cube.047
+	writing mesh:  Cube.048
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.049
+	writing mesh:  Cube.050
+	writing mesh:  Cube.051
+	writing mesh:  Cube.052
+	writing mesh:  Cube.053
+	writing mesh:  Cube.054
+	writing mesh:  Cube.055
+	writing mesh:  Cylinder.002
+	writing mesh:  Cube.056
+	writing mesh:  Cube.057
+	writing mesh:  Cube.058
+	writing mesh:  Cube.059
+	writing mesh:  Cube.060
+	writing mesh:  Cube.061
+	writing mesh:  Cube.062
+	writing mesh:  Cube.063
+	writing mesh:  Cube.064
+	writing mesh:  Cube.065
+	writing mesh:  Cube.066
+	writing mesh:  Cube.067
+	writing mesh:  Cube.068
+	writing mesh:  Cube.069
+	writing mesh:  Cube.070
+	writing mesh:  Cube.071
+	writing mesh:  Plane.011
+	writing mesh:  Cube.072
+	writing mesh:  Cube.081
+	writing mesh:  Cube.084
+	writing mesh:  Cube.087
+	writing mesh:  Cube.002
+	writing mesh:  Cube.090
+	writing mesh:  Cube.091
+	writing mesh:  Cube.092
+	writing mesh:  Cube.093
+	writing mesh:  Cube.094
+	writing mesh:  Cube.095
+	writing mesh:  Cube.096
+	writing mesh:  Cube.097
+	writing mesh:  Cube.098
+	writing mesh:  Cube.099
+	writing mesh:  Cube.100
+	writing mesh:  Cube.101
+	writing mesh:  Cube.102
+	writing mesh:  Cube.103
+	writing mesh:  Cube.104
+	writing mesh:  Cube.105
+	writing mesh:  Cube.106
+	writing mesh:  Cube.107
+	writing mesh:  Cube.108
+	writing mesh:  Cube.109
+	writing mesh:  Cube.110
+	writing mesh:  Cube.111
+	writing mesh:  Cube.112
+	writing mesh:  Cube.113
+	writing mesh:  Cube.114
+	writing mesh:  Cube.115
+	writing mesh:  Cube.116
+	writing mesh:  Cube.117
+	writing mesh:  Cube.118
+	writing mesh:  Cube.119
+	writing mesh:  Cube.120
+	writing mesh:  Cube.124
+	writing mesh:  Cube.125
+	writing mesh:  Cube.126
+	writing mesh:  Cube.127
+	writing mesh:  Cube.128
+	writing mesh:  Cube.129
+	writing mesh:  Cube.130
+	writing mesh:  Cube.131
+	writing mesh:  Cube.132
+	writing mesh:  Cube.133
+	writing mesh:  Cube.134
+	writing mesh:  Cube.135
+	writing mesh:  Cube.136
+	writing mesh:  Cube.137
+	writing mesh:  Cube.138
+	writing mesh:  Cube.139
+	writing mesh:  Cube.140
+	writing mesh:  Cube.141
+	writing mesh:  Cube.142
+	writing mesh:  Cube.143
+	writing mesh:  Cube.144
+	writing mesh:  Cube.145
+	writing mesh:  Cube.146
+	writing mesh:  Cube.147
+	writing mesh:  Cube.148
+	writing mesh:  Cube.149
+	writing mesh:  Cube.150
+	writing mesh:  Cube.151
+	writing mesh:  Cube.152
+	writing mesh:  Cube.153
+	writing mesh:  Cube.154
+	writing mesh:  Cube.155
+	writing mesh:  Cube.156
+	writing mesh:  Cube.157
+	writing mesh:  Cube.158
+	writing mesh:  Cube.159
+	writing mesh:  Cube.160
+	writing mesh:  Terminal
+	writing mesh:  Screen
+	writing mesh:  Plane
+	writing mesh:  Plane.005
+	writing mesh:  Plane.002
+	writing mesh:  Ventilo_pilier
+	writing mesh:  Ventilateur
+	writing mesh:  Lampe
+	writing mesh:  Lampe.001
+	writing mesh:  Lampe.002
+	writing mesh:  Lampe.003
+	writing mesh:  Cube.162
+	writing mesh:  Plane.003
+	writing mesh:  Plane.004
+	writing mesh:  Plane.006
+	writing mesh:  Plane.008
+	writing mesh:  Radio
+	writing mesh:  Cube.163
+	writing mesh:  Cube.165
+	writing mesh:  Radio_table
+	writing mesh:  Lampe.004
+	writing mesh:  Lampe.005
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.0795 secs

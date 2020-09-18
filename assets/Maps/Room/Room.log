@@ -1,0 +1,430 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\Room\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Circle
+		processing begun of material:  Black
+		num positions      :  535
+		num normals        :  535
+		num tangents       :  0
+		num uvs            :  1070
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  696
+	processing begun of mesh:  Circle.001
+		processing begun of material:  Stair
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1548
+	processing begun of mesh:  Circle.002
+		processing begun of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Circle.003
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Cube
+		processing begun of material:  Mur_color
+		num positions      :  335
+		num normals        :  335
+		num tangents       :  0
+		num uvs            :  670
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Mur_color
+		registered as also a user of material:  Mur_color
+		num positions      :  324
+		num normals        :  324
+		num tangents       :  0
+		num uvs            :  648
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Scultupture_bot
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Object
+		processing begun of material:  Stair
+		registered as also a user of material:  Stair
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Plane
+		processing begun of material:  Mur_color
+		registered as also a user of material:  Mur_color
+		num positions      :  637
+		num normals        :  637
+		num tangents       :  0
+		num uvs            :  1274
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  756
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Mur_color
+		registered as also a user of material:  Mur_color
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  Plane.005
+		WARNING: No materials have been assigned: 
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  Plane.008
+		processing begun of material:  City1
+			processing texture city1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.009
+		processing begun of material:  City1
+		registered as also a user of material:  City1
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Mur_color
+		registered as also a user of material:  Mur_color
+		num positions      :  335
+		num normals        :  335
+		num tangents       :  0
+		num uvs            :  670
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Staircolor
+		registered as also a user of material:  Staircolor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.001
+		WARNING: No materials have been assigned: 
+		num positions      :  247
+		num normals        :  247
+		num tangents       :  0
+		num uvs            :  494
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.002
+		WARNING: No materials have been assigned: 
+		num positions      :  247
+		num normals        :  247
+		num tangents       :  0
+		num uvs            :  494
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.003
+		WARNING: No materials have been assigned: 
+		num positions      :  247
+		num normals        :  247
+		num tangents       :  0
+		num uvs            :  494
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Material
+		processing begun of material:  Material.001
+		processing begun of multimaterial:  Room.Multimaterial#0
+		num positions      :  315
+		num normals        :  315
+		num tangents       :  0
+		num uvs            :  630
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1044
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image7
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_earth
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Room.Multimaterial#1
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  0
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image8
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_trappist
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Room.Multimaterial#2
+		num positions      :  71
+		num normals        :  71
+		num tangents       :  0
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image9
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_hd40307g
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Room.Multimaterial#3
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  0
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Screen
+		processing begun of material:  ScreenColor
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Terminal
+		processing begun of material:  Terminal
+		processing begun of material:  Keyboard
+		processing begun of material:  Terminal_metal2
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture keyboard
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Room.Multimaterial#4
+		num positions      :  515
+		num normals        :  515
+		num tangents       :  0
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+		WARNING: # of 0 area faces found:  32
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Circle
+	writing mesh:  Circle.001
+	writing mesh:  Circle.002
+	writing mesh:  Circle.003
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Cube.005
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cylinder
+	writing mesh:  Object
+	writing mesh:  Plane
+	writing mesh:  Plane.004
+	writing mesh:  Plane.005
+	writing mesh:  Plane.008
+	writing mesh:  Plane.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cylinder.001
+	writing mesh:  Cylinder.002
+	writing mesh:  Cylinder.003
+	writing mesh:  Cube.016
+	writing mesh:  Cube.022
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Screen
+	writing mesh:  Terminal
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3939 secs

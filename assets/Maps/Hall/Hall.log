@@ -1,0 +1,583 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Maps\Hall\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane
+		processing begun of material:  Marbre
+			processing texture marbre__2_
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Wall
+			processing texture wall
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube
+		processing begun of material:  Ascenceur
+		processing begun of material:  Ascenceur2
+		processing begun of material:  Ascenceur3
+			processing texture metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#0
+		num positions      :  165
+		num normals        :  165
+		num tangents       :  0
+		num uvs            :  330
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Comptoir
+		processing begun of material:  Comptoir2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#1
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Entrée
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  481
+		num normals        :  481
+		num tangents       :  0
+		num uvs            :  962
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Plane.005
+		processing begun of material:  Material.001
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Wall
+		registered as also a user of material:  Wall
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Wall
+		registered as also a user of material:  Wall
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Wall
+		registered as also a user of material:  Wall
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Entrée
+		registered as also a user of material:  Entrée
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Entrée
+		registered as also a user of material:  Entrée
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Circle.002
+		processing begun of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Circle.003
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Scultupture_bot
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Circle.000
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Circle.001
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Scultupture_bot
+		registered as also a user of material:  Scultupture_bot
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Circle.004
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Circle.005
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Scultupture_bot
+		registered as also a user of material:  Scultupture_bot
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Circle.006
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Circle.007
+		processing begun of material:  Sculpture
+		registered as also a user of material:  Sculpture
+		num positions      :  248
+		num normals        :  248
+		num tangents       :  0
+		num uvs            :  496
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1476
+	processing begun of mesh:  Cylinder.003
+		processing begun of material:  Scultupture_bot
+		registered as also a user of material:  Scultupture_bot
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.008
+		processing begun of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Entrée
+		registered as also a user of material:  Entrée
+		num positions      :  481
+		num normals        :  481
+		num tangents       :  0
+		num uvs            :  962
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Cube.015
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.018
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.019
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.021
+		processing begun of material:  glass
+		registered as also a user of material:  glass
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_jupiter
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#2
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_grand_tour
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#3
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Tableau_image
+		processing begun of multimaterial:  Hall.Multimaterial#4
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Tableau_image2
+		processing begun of multimaterial:  Hall.Multimaterial#5
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image4
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_kepler16b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#6
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Tableau
+		processing begun of material:  Tableau_image3
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_psoj318
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hall.Multimaterial#7
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Material
+		processing begun of material:  Mat2
+		processing begun of multimaterial:  Hall.Multimaterial#8
+		num positions      :  106
+		num normals        :  106
+		num tangents       :  0
+		num uvs            :  212
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  InvisibleBlock.001
+		processing begun of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.001
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Plane.004
+	writing mesh:  Cube
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Plane.005
+	writing mesh:  Cube.005
+	writing mesh:  Cube.004
+	writing mesh:  Plane.001
+	writing mesh:  Plane.002
+	writing mesh:  Plane.003
+	writing mesh:  Cube.001
+	writing mesh:  Cube.007
+	writing mesh:  Circle.002
+	writing mesh:  Circle.003
+	writing mesh:  Cylinder
+	writing mesh:  Circle.000
+	writing mesh:  Circle.001
+	writing mesh:  Cylinder.001
+	writing mesh:  Circle.004
+	writing mesh:  Circle.005
+	writing mesh:  Cylinder.002
+	writing mesh:  Circle.006
+	writing mesh:  Circle.007
+	writing mesh:  Cylinder.003
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.006
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  InvisibleBlock.001
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.3819 secs

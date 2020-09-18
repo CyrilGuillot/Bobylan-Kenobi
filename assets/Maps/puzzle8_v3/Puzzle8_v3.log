@@ -1,0 +1,754 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\puzzle8_v3\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Base
+		registered as also a user of material:  Base
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of camera (UniversalCamera):  Camera.001
+	processing begun of mesh:  Cube
+		processing begun of material:  Box
+			processing texture wood1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.045
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.041
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.040
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.039
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.000
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.030
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  279
+		num normals        :  279
+		num tangents       :  0
+		num uvs            :  558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  Cube.038
+		processing begun of material:  Box
+		registered as also a user of material:  Box
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  0
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Plane.000
+		processing begun of material:  Bunker
+			processing texture plaster2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Bunker
+		registered as also a user of material:  Bunker
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Bunker
+		registered as also a user of material:  Bunker
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Bunker
+		registered as also a user of material:  Bunker
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Plank
+			processing texture plank
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.006
+		processing begun of material:  Bunker
+		registered as also a user of material:  Bunker
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.011
+		processing begun of material:  Porte_bord
+		processing begun of material:  Porte_inside
+		processing begun of material:  Porte_poignée
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Puzzle8_v3.Multimaterial#0
+		num positions      :  107
+		num normals        :  107
+		num tangents       :  0
+		num uvs            :  214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Screen
+		processing begun of material:  ScreenColor
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Terminal
+		processing begun of material:  Terminal
+		processing begun of material:  Keyboard
+		processing begun of material:  Terminal_metal2
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture keyboard
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Puzzle8_v3.Multimaterial#1
+		num positions      :  515
+		num normals        :  515
+		num tangents       :  0
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+		WARNING: # of 0 area faces found:  32
+	processing begun of mesh:  Sphere
+		processing begun of material:  mat6
+		num positions      :  588
+		num normals        :  588
+		num tangents       :  0
+		num uvs            :  1176
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  pyr1
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr2
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr3
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr4
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr5
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr6
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr7
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  pyr8
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.002
+	processing begun of light (POINT):  Light.001
+========= Writing of JSON file started =========
+	writing mesh:  Cube.001
+	writing mesh:  Cube.004
+	writing mesh:  Cube.005
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.011
+	writing mesh:  Cube.014
+	writing mesh:  Cube
+	writing mesh:  Cube.046
+	writing mesh:  Cube.045
+	writing mesh:  Cube.044
+	writing mesh:  Cube.043
+	writing mesh:  Cube.042
+	writing mesh:  Cube.041
+	writing mesh:  Cube.040
+	writing mesh:  Cube.039
+	writing mesh:  Cube.003
+	writing mesh:  Cube.010
+	writing mesh:  Cube.002
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.000
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.029
+	writing mesh:  Cube.030
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.033
+	writing mesh:  Cube.034
+	writing mesh:  Cube.035
+	writing mesh:  Cube.036
+	writing mesh:  Cube.037
+	writing mesh:  Cube.038
+	writing mesh:  Plane.000
+	writing mesh:  Plane.001
+	writing mesh:  Plane.002
+	writing mesh:  Plane.003
+	writing mesh:  Plane.004
+	writing mesh:  Plane.006
+	writing mesh:  Plane.011
+	writing mesh:  Screen
+	writing mesh:  Terminal
+	writing mesh:  Sphere
+	writing mesh:  pyr1
+	writing mesh:  pyr2
+	writing mesh:  pyr3
+	writing mesh:  pyr4
+	writing mesh:  pyr5
+	writing mesh:  pyr6
+	writing mesh:  pyr7
+	writing mesh:  pyr8
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.7628 secs

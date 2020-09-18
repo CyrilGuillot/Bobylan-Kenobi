@@ -1,0 +1,415 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\Alley2\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane
+		processing begun of material:  Sol
+			processing texture concrete
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Metal
+		processing begun of material:  Murs
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture brick
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Alley2.Multimaterial#0
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Material
+		num positions      :  206
+		num normals        :  206
+		num tangents       :  0
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Cube.030
+		processing begun of material:  Escalier
+		num positions      :  63
+		num normals        :  63
+		num tangents       :  0
+		num uvs            :  126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cylinder.010
+		processing begun of material:  Escalier
+		registered as also a user of material:  Escalier
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  Cube.000
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  206
+		num normals        :  206
+		num tangents       :  0
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Escalier
+		registered as also a user of material:  Escalier
+		num positions      :  63
+		num normals        :  63
+		num tangents       :  0
+		num uvs            :  126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cylinder.000
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  Cube
+		processing begun of material:  Door
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  440
+		num normals        :  440
+		num tangents       :  0
+		num uvs            :  880
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  648
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Door
+		registered as also a user of material:  Door
+		num positions      :  187
+		num normals        :  187
+		num tangents       :  0
+		num uvs            :  374
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Metal
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  735
+		num normals        :  735
+		num tangents       :  0
+		num uvs            :  1470
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2484
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Bordure
+			processing texture metal7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  0
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Text.002
+		processing begun of material:  Neon1
+		num positions      :  33264
+		num normals        :  33264
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  149508
+	WARNING: The following object (type - FONT) is not currently exportable thus ignored: Text.000
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  735
+		num normals        :  735
+		num tangents       :  0
+		num uvs            :  1470
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2484
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  735
+		num normals        :  735
+		num tangents       :  0
+		num uvs            :  1470
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2484
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Neon2
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  100
+		num normals        :  100
+		num tangents       :  0
+		num uvs            :  200
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Bordure
+		registered as also a user of material:  Bordure
+		num positions      :  100
+		num normals        :  100
+		num tangents       :  0
+		num uvs            :  200
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Metal
+		processing begun of material:  Murs
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs
+		processing begun of multimaterial:  Alley2.Multimaterial#1
+		num positions      :  603
+		num normals        :  603
+		num tangents       :  0
+		num uvs            :  1206
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Metal
+		processing begun of material:  Murs
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs
+		processing begun of multimaterial:  Alley2.Multimaterial#2
+		num positions      :  527
+		num normals        :  527
+		num tangents       :  0
+		num uvs            :  1054
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  606
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Metal
+		processing begun of material:  Murs
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs
+		processing begun of multimaterial:  Alley2.Multimaterial#3
+		num positions      :  167
+		num normals        :  167
+		num tangents       :  0
+		num uvs            :  334
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  195
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Metal
+		processing begun of material:  Murs
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs
+		processing begun of multimaterial:  Alley2.Multimaterial#4
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  480
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  285
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Tableau.001
+		processing begun of material:  Tableau_image13
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_peg51
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Alley2.Multimaterial#5
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Tableau.001
+		processing begun of material:  Tableau_image13
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Tableau_image13
+		processing begun of multimaterial:  Alley2.Multimaterial#6
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Tableau_image14
+			processing texture mini_mars
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Tableau_image14
+		registered as also a user of material:  Tableau_image14
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of light (POINT):  Light
+	processing begun of light (POINT):  Light.001
+	processing begun of light (POINT):  Light.002
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Cube.002
+	writing mesh:  Cube.025
+	writing mesh:  Cube.027
+	writing mesh:  Cube.030
+	writing mesh:  Cylinder.010
+	writing mesh:  Cube.000
+	writing mesh:  Cube.001
+	writing mesh:  Cube.003
+	writing mesh:  Cylinder.000
+	writing mesh:  Cube
+	writing mesh:  Cube.005
+	writing mesh:  Cylinder
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Text.002
+	writing mesh:  Cylinder.001
+	writing mesh:  Cylinder.002
+	writing mesh:  Plane.001
+	writing mesh:  Cube.004
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.018
+	writing mesh:  Cube.017
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.1205 secs

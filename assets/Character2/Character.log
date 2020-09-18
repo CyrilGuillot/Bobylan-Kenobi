@@ -1,0 +1,269 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Character2\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Character, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:HeadTop_End, index:  6
+		processing begun of bone:  mixamorig:LeftShoulder, index:  7
+		processing begun of bone:  mixamorig:LeftArm, index:  8
+		processing begun of bone:  mixamorig:LeftForeArm, index:  9
+		processing begun of bone:  mixamorig:LeftHand, index:  10
+		processing begun of bone:  mixamorig:LeftHandThumb1, index:  11
+		processing begun of bone:  mixamorig:LeftHandThumb2, index:  12
+		processing begun of bone:  mixamorig:LeftHandThumb3, index:  13
+		processing begun of bone:  mixamorig:LeftHandThumb4, index:  14
+		processing begun of bone:  mixamorig:LeftHandIndex1, index:  15
+		processing begun of bone:  mixamorig:LeftHandIndex2, index:  16
+		processing begun of bone:  mixamorig:LeftHandIndex3, index:  17
+		processing begun of bone:  mixamorig:LeftHandIndex4, index:  18
+		processing begun of bone:  mixamorig:LeftHandMiddle1, index:  19
+		processing begun of bone:  mixamorig:LeftHandMiddle2, index:  20
+		processing begun of bone:  mixamorig:LeftHandMiddle3, index:  21
+		processing begun of bone:  mixamorig:LeftHandMiddle4, index:  22
+		processing begun of bone:  mixamorig:LeftHandRing1, index:  23
+		processing begun of bone:  mixamorig:LeftHandRing2, index:  24
+		processing begun of bone:  mixamorig:LeftHandRing3, index:  25
+		processing begun of bone:  mixamorig:LeftHandRing4, index:  26
+		processing begun of bone:  mixamorig:LeftHandPinky1, index:  27
+		processing begun of bone:  mixamorig:LeftHandPinky2, index:  28
+		processing begun of bone:  mixamorig:LeftHandPinky3, index:  29
+		processing begun of bone:  mixamorig:LeftHandPinky4, index:  30
+		processing begun of bone:  mixamorig:RightShoulder, index:  31
+		processing begun of bone:  mixamorig:RightArm, index:  32
+		processing begun of bone:  mixamorig:RightForeArm, index:  33
+		processing begun of bone:  mixamorig:RightHand, index:  34
+		processing begun of bone:  mixamorig:RightHandThumb1, index:  35
+		processing begun of bone:  mixamorig:RightHandThumb2, index:  36
+		processing begun of bone:  mixamorig:RightHandThumb3, index:  37
+		processing begun of bone:  mixamorig:RightHandThumb4, index:  38
+		processing begun of bone:  mixamorig:RightHandIndex1, index:  39
+		processing begun of bone:  mixamorig:RightHandIndex2, index:  40
+		processing begun of bone:  mixamorig:RightHandIndex3, index:  41
+		processing begun of bone:  mixamorig:RightHandIndex4, index:  42
+		processing begun of bone:  mixamorig:RightHandMiddle1, index:  43
+		processing begun of bone:  mixamorig:RightHandMiddle2, index:  44
+		processing begun of bone:  mixamorig:RightHandMiddle3, index:  45
+		processing begun of bone:  mixamorig:RightHandMiddle4, index:  46
+		processing begun of bone:  mixamorig:RightHandRing1, index:  47
+		processing begun of bone:  mixamorig:RightHandRing2, index:  48
+		processing begun of bone:  mixamorig:RightHandRing3, index:  49
+		processing begun of bone:  mixamorig:RightHandRing4, index:  50
+		processing begun of bone:  mixamorig:RightHandPinky1, index:  51
+		processing begun of bone:  mixamorig:RightHandPinky2, index:  52
+		processing begun of bone:  mixamorig:RightHandPinky3, index:  53
+		processing begun of bone:  mixamorig:RightHandPinky4, index:  54
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  55
+		processing begun of bone:  mixamorig:LeftLeg, index:  56
+		processing begun of bone:  mixamorig:LeftFoot, index:  57
+		processing begun of bone:  mixamorig:LeftToeBase, index:  58
+		processing begun of bone:  mixamorig:LeftToe_End, index:  59
+		processing begun of bone:  mixamorig:RightUpLeg, index:  60
+		processing begun of bone:  mixamorig:RightLeg, index:  61
+		processing begun of bone:  mixamorig:RightFoot, index:  62
+		processing begun of bone:  mixamorig:RightToeBase, index:  63
+		processing begun of bone:  mixamorig:RightToe_End, index:  64
+		processing action anim_idle:  in[1 - 251], out[0 - 251]
+		processing action anim_walking:  in[1 - 32], out[260 - 292]
+		processing action Tpose:  in[1 - 2], out[300 - 302]
+	processing begun of mesh:  Head_back
+		processing begun of material:  Head_back
+		Custom split normals with tangents being used
+		num positions      :  1688
+		num normals        :  1688
+		num tangents       :  6752
+		num uvs            :  3376
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7674
+		Skeleton stats:  
+			Total Influencers:  2383
+			Avg # of influencers per vertex:  1.4117
+			Highest # of influencers observed:  3, num vertices with this:  171
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  6752
+	processing begun of mesh:  Pantalon
+		processing begun of material:  Pantalon
+		Custom split normals with tangents being used
+		num positions      :  1106
+		num normals        :  1106
+		num tangents       :  4424
+		num uvs            :  2212
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3639
+		Skeleton stats:  
+			Total Influencers:  3463
+			Avg # of influencers per vertex:  3.1311
+			Highest # of influencers observed:  4, num vertices with this:  329
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  4424
+	processing begun of mesh:  Costume
+		processing begun of material:  Costume
+		processing begun of material:  Chemise
+		processing begun of material:  Shirt
+		processing begun of multimaterial:  Character.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  3348
+		num normals        :  3348
+		num tangents       :  13392
+		num uvs            :  6696
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  15888
+		Skeleton stats:  
+			Total Influencers:  8017
+			Avg # of influencers per vertex:  2.3946
+			Highest # of influencers observed:  4, num vertices with this:  186
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  13392
+	processing begun of mesh:  Anneau
+		processing begun of material:  Eye
+		processing begun of material:  Eye2
+		processing begun of multimaterial:  Character.Multimaterial#1
+		Custom split normals with tangents being used
+		num positions      :  488
+		num normals        :  488
+		num tangents       :  1952
+		num uvs            :  976
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1944
+		Skeleton stats:  
+			Total Influencers:  488
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  488
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  1952
+	processing begun of mesh:  Main_gauche
+		processing begun of material:  Gant
+		Custom split normals with tangents being used
+		num positions      :  1341
+		num normals        :  1341
+		num tangents       :  5364
+		num uvs            :  2682
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2640
+		Skeleton stats:  
+			Total Influencers:  4189
+			Avg # of influencers per vertex:  3.1238
+			Highest # of influencers observed:  8, num vertices with this:  1
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  10728
+	processing begun of mesh:  Chaussure_gauche
+		processing begun of material:  Chaussure
+		processing begun of material:  Chaussure_semelle
+		processing begun of multimaterial:  Character.Multimaterial#2
+		Custom split normals with tangents being used
+		num positions      :  223
+		num normals        :  223
+		num tangents       :  892
+		num uvs            :  446
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1092
+		Skeleton stats:  
+			Total Influencers:  641
+			Avg # of influencers per vertex:  2.8744
+			Highest # of influencers observed:  4, num vertices with this:  18
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  892
+	processing begun of mesh:  Chaussure_droite
+		processing begun of material:  Chaussure
+		processing begun of material:  Chaussure_semelle
+		registered as also a user of material:  Chaussure_semelle
+		processing begun of multimaterial:  Character.Multimaterial#3
+		Custom split normals with tangents being used
+		num positions      :  223
+		num normals        :  223
+		num tangents       :  892
+		num uvs            :  446
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1092
+		Skeleton stats:  
+			Total Influencers:  642
+			Avg # of influencers per vertex:  2.8789
+			Highest # of influencers observed:  4, num vertices with this:  17
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  892
+	processing begun of mesh:  Head_front
+		processing begun of material:  Head
+		processing begun of material:  head_face2
+		processing begun of multimaterial:  Character.Multimaterial#4
+		Custom split normals with tangents being used
+		num positions      :  390
+		num normals        :  390
+		num tangents       :  1560
+		num uvs            :  780
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1302
+		Skeleton stats:  
+			Total Influencers:  642
+			Avg # of influencers per vertex:  1.6462
+			Highest # of influencers observed:  3, num vertices with this:  66
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1560
+	processing begun of mesh:  Beret
+		processing begun of material:  Béret
+		Custom split normals with tangents being used
+		num positions      :  525
+		num normals        :  525
+		num tangents       :  2100
+		num uvs            :  1050
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2958
+		Skeleton stats:  
+			Total Influencers:  525
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  525
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  2100
+	processing begun of mesh:  Main_droite
+		processing begun of material:  Gant
+		registered as also a user of material:  Gant
+		Custom split normals with tangents being used
+		num positions      :  1342
+		num normals        :  1342
+		num tangents       :  5368
+		num uvs            :  2684
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2640
+		Skeleton stats:  
+			Total Influencers:  4181
+			Avg # of influencers per vertex:  3.1155
+			Highest # of influencers observed:  7, num vertices with this:  29
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  10736
+========= Writing of JSON file started =========
+	writing mesh:  Head_back
+	writing mesh:  Pantalon
+	writing mesh:  Costume
+	writing mesh:  Anneau
+	writing mesh:  Main_gauche
+	writing mesh:  Chaussure_gauche
+	writing mesh:  Chaussure_droite
+	writing mesh:  Head_front
+	writing mesh:  Beret
+	writing mesh:  Main_droite
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 8.8453 secs

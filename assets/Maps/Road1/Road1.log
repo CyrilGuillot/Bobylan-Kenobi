@@ -1,0 +1,2959 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\docs\assets\Maps\Road1\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane
+		processing begun of material:  Road
+			processing texture goudron
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Metal
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  170
+		num normals        :  170
+		num tangents       :  0
+		num uvs            :  340
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#0
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Block
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Wall
+		processing begun of material:  Wall
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#1
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Wall
+		registered as also a user of material:  Wall
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Ad2
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Appt_metal
+			processing texture metal6
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.000
+		processing begun of material:  Wall
+		registered as also a user of material:  Wall
+		num positions      :  61
+		num normals        :  61
+		num tangents       :  0
+		num uvs            :  122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube
+		processing begun of material:  Ad3
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Metal4
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Metal4
+		registered as also a user of material:  Metal4
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture roof_metal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#2
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Plane.001
+		processing begun of material:  Troitoire
+			processing texture goudron
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Pavement
+			processing texture pavement
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  62
+		num normals        :  62
+		num tangents       :  0
+		num uvs            :  124
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Troitoire
+		registered as also a user of material:  Troitoire
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Pavement
+		registered as also a user of material:  Pavement
+		num positions      :  63
+		num normals        :  63
+		num tangents       :  0
+		num uvs            :  126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Appt_metal
+		registered as also a user of material:  Appt_metal
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Vertical_pub
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Pub_vertical_metal
+		num positions      :  58
+		num normals        :  58
+		num tangents       :  0
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Barriere
+			processing texture stone3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#3
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#4
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.026
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#5
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.030
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Door.001
+			processing texture door
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.038
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.039
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#6
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#7
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#8
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#9
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cube.041
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#10
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#11
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#12
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside2
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		processing begun of multimaterial:  Road1.Multimaterial#13
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.045
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#14
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#15
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#16
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside2
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside2
+		processing begun of multimaterial:  Road1.Multimaterial#17
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#18
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.050
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#19
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.053
+		processing begun of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_barre
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#20
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.052
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#21
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.054
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside
+		processing begun of multimaterial:  Road1.Multimaterial#22
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.062
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		processing begun of multimaterial:  Road1.Multimaterial#23
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.063
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#24
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.064
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#25
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.065
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#26
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.066
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#27
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.067
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#28
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.068
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#29
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.069
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#30
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cylinder.003
+		processing begun of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.004
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.005
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.006
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.007
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.008
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.009
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.010
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.011
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.012
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.013
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.014
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.015
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.016
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.017
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.018
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.019
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.020
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.021
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.029
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.030
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of camera (UniversalCamera):  Camera.001
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#31
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.070
+		processing begun of material:  Block
+		registered as also a user of material:  Block
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.071
+		processing begun of material:  Wall
+		processing begun of material:  Wall
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  Road1.Multimaterial#32
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.072
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#33
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.073
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.074
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#34
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.075
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.076
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.077
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.078
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.079
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.080
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#35
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.081
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  347
+		num normals        :  347
+		num tangents       :  0
+		num uvs            :  694
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.082
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#36
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.083
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.084
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#37
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.085
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#38
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.086
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#39
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.087
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#40
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.088
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#41
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.089
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#42
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.090
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#43
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.091
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#44
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	WARNING: The following camera not visible in scene thus ignored: Camera.002
+	processing begun of mesh:  Cube.094
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  374
+		num normals        :  374
+		num tangents       :  0
+		num uvs            :  748
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  456
+	processing begun of mesh:  Cube.095
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+		processing begun of material:  Door
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#45
+		num positions      :  683
+		num normals        :  683
+		num tangents       :  0
+		num uvs            :  1366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  954
+	processing begun of mesh:  Cylinder.022
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cube.096
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#46
+		num positions      :  734
+		num normals        :  734
+		num tangents       :  0
+		num uvs            :  1468
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.097
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#47
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.098
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#48
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.101
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#49
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.102
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#50
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.103
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#51
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.104
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#52
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.061
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#53
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.110
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#54
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.112
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#55
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cube.114
+		processing begun of material:  Building
+		processing begun of material:  Building_fenetre
+		processing begun of material:  Building_Barre
+		processing begun of material:  Building_barre2
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Building_fenetre
+		registered as also a user of material:  Building_Barre
+		registered as also a user of material:  Building_barre2
+		processing begun of multimaterial:  Road1.Multimaterial#56
+		num positions      :  733
+		num normals        :  733
+		num tangents       :  0
+		num uvs            :  1466
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1026
+	processing begun of mesh:  Cylinder.025
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Plane.008
+		processing begun of material:  Road
+		registered as also a user of material:  Road
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.009
+		processing begun of material:  Troitoire
+		registered as also a user of material:  Troitoire
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.055
+		processing begun of material:  Pavement
+		registered as also a user of material:  Pavement
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.010
+		processing begun of material:  Troitoire
+		registered as also a user of material:  Troitoire
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.137
+		processing begun of material:  Pavement
+		registered as also a user of material:  Pavement
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.139
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#57
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.140
+		processing begun of material:  Wall
+		processing begun of material:  Wall
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  Road1.Multimaterial#58
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.141
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.142
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#59
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.143
+		processing begun of material:  Wall_scifi
+		processing begun of material:  Wall_black
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Wall_black
+		processing begun of multimaterial:  Road1.Multimaterial#60
+		num positions      :  273
+		num normals        :  273
+		num tangents       :  0
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  Cube.040
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#61
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.144
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.145
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#62
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.146
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#63
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.147
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#64
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.148
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#65
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.149
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#66
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.150
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#67
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.151
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.152
+		processing begun of material:  Material.001
+		processing begun of material:  Roof
+			processing texture metal5
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Roof
+		processing begun of multimaterial:  Road1.Multimaterial#68
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.153
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#69
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.154
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#70
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.155
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#71
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.156
+		processing begun of material:  Fenetre
+		processing begun of material:  Fenetre_barre
+		processing begun of material:  Fenetre_inside3
+			processing texture wood7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Fenetre_barre
+		registered as also a user of material:  Fenetre_inside3
+		processing begun of multimaterial:  Road1.Multimaterial#72
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cube.157
+		processing begun of material:  Block
+		registered as also a user of material:  Block
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.158
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.159
+		processing begun of material:  Barriere
+		registered as also a user of material:  Barriere
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  Cube.160
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.161
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  0
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cube.162
+		processing begun of material:  Metal
+		registered as also a user of material:  Metal
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.042
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cube.163
+		processing begun of material:  Metal4
+		registered as also a user of material:  Metal4
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.023
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cylinder.024
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.026
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.027
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Text
+		processing begun of material:  Neon1
+		num positions      :  60120
+		num normals        :  60120
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  270408
+	processing begun of mesh:  Text.001
+		processing begun of material:  Neon2
+		num positions      :  12546
+		num normals        :  12546
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  37479
+		WARNING: # of 0 area faces found:  78
+	WARNING: The following object (type - FONT) is not currently exportable thus ignored: Text.002
+	WARNING: The following object (type - FONT) is not currently exportable thus ignored: Text.003
+	processing begun of mesh:  Cylinder.032
+		processing begun of material:  Neon3
+		num positions      :  1127
+		num normals        :  1127
+		num tangents       :  0
+		num uvs            :  2254
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5184
+	processing begun of mesh:  Text.005
+		processing begun of material:  Neon2
+		registered as also a user of material:  Neon2
+		num positions      :  12546
+		num normals        :  12546
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  37479
+		WARNING: # of 0 area faces found:  78
+	processing begun of mesh:  Cube.180
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.187
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.192
+		processing begun of material:  Tableau.001
+		processing begun of material:  Tableau_image13
+			processing texture metal4
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'F:\\Projets\\Game-on-web\\Models\\Textures\\metal4.png'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture mini_peg51
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Road1.Multimaterial#73
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.193
+		processing begun of material:  Tableau.001
+		processing begun of material:  Tableau_image13
+			processing texture metal4
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'F:\\Projets\\Game-on-web\\Models\\Textures\\metal4.png'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Tableau_image13
+		processing begun of multimaterial:  Road1.Multimaterial#74
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.194
+		processing begun of material:  Tableau.001
+		processing begun of material:  Tableau_image13
+			processing texture metal4
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'F:\\Projets\\Game-on-web\\Models\\Textures\\metal4.png'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Tableau_image13
+		processing begun of multimaterial:  Road1.Multimaterial#75
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.195
+		processing begun of material:  Tableau_image13
+		registered as also a user of material:  Tableau_image13
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.196
+		processing begun of material:  TableauImage14
+			processing texture mini_mars
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.197
+		processing begun of material:  Tableau_image13
+		registered as also a user of material:  Tableau_image13
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.198
+		processing begun of material:  TableauImage14
+		registered as also a user of material:  TableauImage14
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.199
+		processing begun of material:  TableauImage14
+		registered as also a user of material:  TableauImage14
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.200
+		processing begun of material:  TableauImage14
+		registered as also a user of material:  TableauImage14
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.201
+		processing begun of material:  Tableau_image17
+			processing texture mini_europa
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  InvisibleBlock
+		processing begun of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.028
+		processing begun of material:  Goutière
+		registered as also a user of material:  Goutière
+		num positions      :  79
+		num normals        :  79
+		num tangents       :  0
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Cylinder.031
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.034
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.035
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.036
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.037
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.038
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.039
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.040
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.041
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.043
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.044
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.045
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.046
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.047
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.048
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.049
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.050
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.051
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.052
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.053
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.054
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.055
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.056
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.057
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.058
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.059
+		processing begun of material:  Barrière
+		registered as also a user of material:  Barrière
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cube.056
+		processing begun of material:  Building
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.057
+		processing begun of material:  Building
+		registered as also a user of material:  Building
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.058
+		processing begun of material:  Building
+		registered as also a user of material:  Building
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.059
+		processing begun of material:  Ad2
+		registered as also a user of material:  Ad2
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.060
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.202
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.203
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.204
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.205
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.206
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.207
+		processing begun of material:  Tableau_image13
+		registered as also a user of material:  Tableau_image13
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.208
+		processing begun of material:  TableauImage14
+		registered as also a user of material:  TableauImage14
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.209
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.210
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.211
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.212
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.213
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.214
+		processing begun of material:  Neon1
+		registered as also a user of material:  Neon1
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InvisibleBlock.002
+		processing begun of material:  CollisionMat.001
+		registered as also a user of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InvisibleBlock.001
+		processing begun of material:  CollisionMat.001
+		registered as also a user of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InvisibleBlock.003
+		processing begun of material:  CollisionMat.001
+		registered as also a user of material:  CollisionMat.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Cube.001
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Cube.006
+	writing mesh:  Cube.005
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.000
+	writing mesh:  Cube
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Plane.001
+	writing mesh:  Cube.017
+	writing mesh:  Plane.002
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.015
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.029
+	writing mesh:  Cube.030
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.033
+	writing mesh:  Cube.034
+	writing mesh:  Cube.037
+	writing mesh:  Cube.038
+	writing mesh:  Cube.039
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.035
+	writing mesh:  Cube.036
+	writing mesh:  Cylinder
+	writing mesh:  Cylinder.001
+	writing mesh:  Cylinder.002
+	writing mesh:  Cube.041
+	writing mesh:  Cube.042
+	writing mesh:  Cube.043
+	writing mesh:  Cube.044
+	writing mesh:  Cube.045
+	writing mesh:  Cube.046
+	writing mesh:  Cube.047
+	writing mesh:  Cube.048
+	writing mesh:  Cube.049
+	writing mesh:  Cube.050
+	writing mesh:  Cube.053
+	writing mesh:  Cube.051
+	writing mesh:  Cube.052
+	writing mesh:  Cube.054
+	writing mesh:  Cube.062
+	writing mesh:  Cube.063
+	writing mesh:  Cube.064
+	writing mesh:  Cube.065
+	writing mesh:  Cube.066
+	writing mesh:  Cube.067
+	writing mesh:  Cube.068
+	writing mesh:  Cube.069
+	writing mesh:  Cylinder.003
+	writing mesh:  Cylinder.004
+	writing mesh:  Cylinder.005
+	writing mesh:  Cylinder.006
+	writing mesh:  Cylinder.007
+	writing mesh:  Cylinder.008
+	writing mesh:  Cylinder.009
+	writing mesh:  Cylinder.010
+	writing mesh:  Cylinder.011
+	writing mesh:  Cylinder.012
+	writing mesh:  Cylinder.013
+	writing mesh:  Cylinder.014
+	writing mesh:  Cylinder.015
+	writing mesh:  Cylinder.016
+	writing mesh:  Cylinder.017
+	writing mesh:  Cylinder.018
+	writing mesh:  Cylinder.019
+	writing mesh:  Cylinder.020
+	writing mesh:  Cylinder.021
+	writing mesh:  Cylinder.029
+	writing mesh:  Cylinder.030
+	writing mesh:  Cube.016
+	writing mesh:  Cube.070
+	writing mesh:  Cube.071
+	writing mesh:  Cube.072
+	writing mesh:  Cube.073
+	writing mesh:  Cube.074
+	writing mesh:  Cube.075
+	writing mesh:  Cube.076
+	writing mesh:  Cube.077
+	writing mesh:  Cube.078
+	writing mesh:  Cube.079
+	writing mesh:  Cube.080
+	writing mesh:  Cube.081
+	writing mesh:  Cube.082
+	writing mesh:  Cube.083
+	writing mesh:  Cube.084
+	writing mesh:  Cube.085
+	writing mesh:  Cube.086
+	writing mesh:  Cube.087
+	writing mesh:  Cube.088
+	writing mesh:  Cube.089
+	writing mesh:  Cube.090
+	writing mesh:  Cube.091
+	writing mesh:  Cube.094
+	writing mesh:  Cube.095
+	writing mesh:  Cylinder.022
+	writing mesh:  Cube.096
+	writing mesh:  Cube.097
+	writing mesh:  Cube.098
+	writing mesh:  Cube.101
+	writing mesh:  Cube.102
+	writing mesh:  Cube.103
+	writing mesh:  Cube.104
+	writing mesh:  Cube.061
+	writing mesh:  Cube.110
+	writing mesh:  Cube.112
+	writing mesh:  Cube.114
+	writing mesh:  Cylinder.025
+	writing mesh:  Plane.008
+	writing mesh:  Plane.009
+	writing mesh:  Cube.055
+	writing mesh:  Plane.010
+	writing mesh:  Cube.137
+	writing mesh:  Cube.139
+	writing mesh:  Cube.140
+	writing mesh:  Cube.141
+	writing mesh:  Cube.142
+	writing mesh:  Cube.143
+	writing mesh:  Cube.040
+	writing mesh:  Cube.144
+	writing mesh:  Cube.145
+	writing mesh:  Cube.146
+	writing mesh:  Cube.147
+	writing mesh:  Cube.148
+	writing mesh:  Cube.149
+	writing mesh:  Cube.150
+	writing mesh:  Cube.151
+	writing mesh:  Cube.152
+	writing mesh:  Cube.153
+	writing mesh:  Cube.154
+	writing mesh:  Cube.155
+	writing mesh:  Cube.156
+	writing mesh:  Cube.157
+	writing mesh:  Cube.158
+	writing mesh:  Cube.159
+	writing mesh:  Cube.160
+	writing mesh:  Cube.161
+	writing mesh:  Cube.162
+	writing mesh:  Cylinder.042
+	writing mesh:  Cube.163
+	writing mesh:  Cylinder.023
+	writing mesh:  Cylinder.024
+	writing mesh:  Cylinder.026
+	writing mesh:  Cylinder.027
+	writing mesh:  Text
+	writing mesh:  Text.001
+	writing mesh:  Cylinder.032
+	writing mesh:  Text.005
+	writing mesh:  Cube.180
+	writing mesh:  Cube.187
+	writing mesh:  Cube.192
+	writing mesh:  Cube.193
+	writing mesh:  Cube.194
+	writing mesh:  Cube.195
+	writing mesh:  Cube.196
+	writing mesh:  Cube.197
+	writing mesh:  Cube.198
+	writing mesh:  Cube.199
+	writing mesh:  Cube.200
+	writing mesh:  Cube.201
+	writing mesh:  InvisibleBlock
+	writing mesh:  Cylinder.028
+	writing mesh:  Cylinder.031
+	writing mesh:  Cylinder.034
+	writing mesh:  Cylinder.035
+	writing mesh:  Cylinder.036
+	writing mesh:  Cylinder.037
+	writing mesh:  Cylinder.038
+	writing mesh:  Cylinder.039
+	writing mesh:  Cylinder.040
+	writing mesh:  Cylinder.041
+	writing mesh:  Cylinder.043
+	writing mesh:  Cylinder.044
+	writing mesh:  Cylinder.045
+	writing mesh:  Cylinder.046
+	writing mesh:  Cylinder.047
+	writing mesh:  Cylinder.048
+	writing mesh:  Cylinder.049
+	writing mesh:  Cylinder.050
+	writing mesh:  Cylinder.051
+	writing mesh:  Cylinder.052
+	writing mesh:  Cylinder.053
+	writing mesh:  Cylinder.054
+	writing mesh:  Cylinder.055
+	writing mesh:  Cylinder.056
+	writing mesh:  Cylinder.057
+	writing mesh:  Cylinder.058
+	writing mesh:  Cylinder.059
+	writing mesh:  Cube.056
+	writing mesh:  Cube.057
+	writing mesh:  Cube.058
+	writing mesh:  Cube.059
+	writing mesh:  Cube.060
+	writing mesh:  Cube.202
+	writing mesh:  Cube.203
+	writing mesh:  Cube.204
+	writing mesh:  Cube.205
+	writing mesh:  Cube.206
+	writing mesh:  Cube.207
+	writing mesh:  Cube.208
+	writing mesh:  Cube.209
+	writing mesh:  Cube.210
+	writing mesh:  Cube.211
+	writing mesh:  Cube.212
+	writing mesh:  Cube.213
+	writing mesh:  Cube.214
+	writing mesh:  InvisibleBlock.002
+	writing mesh:  InvisibleBlock.001
+	writing mesh:  InvisibleBlock.003
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 16.7739 secs

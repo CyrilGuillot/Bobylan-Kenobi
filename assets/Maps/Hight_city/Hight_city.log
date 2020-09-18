@@ -1,0 +1,754 @@
+Exporter version: 6.2.4, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  F:\Projets\Game-on-web\Game\assets\Maps\Hight_city\
+	Python World class constructor completed
+	processing begun of mesh:  Cube
+		processing begun of material:  Sol
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  314
+		num normals        :  314
+		num tangents       :  0
+		num uvs            :  628
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  408
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Mur
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Material.001
+			processing texture metal7
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  271
+		num normals        :  271
+		num tangents       :  0
+		num uvs            :  542
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  582
+	processing begun of mesh:  Cube.004
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	WARNING: mesh, Cube.004, has 0 vertices; ignored
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Material
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  87
+		num normals        :  87
+		num tangents       :  0
+		num uvs            :  174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  150
+	processing begun of mesh:  Cylinder.001
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	WARNING: mesh, Cylinder.001, has 0 vertices; ignored
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hight_city.Multimaterial#0
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Bord.001
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  251
+		num normals        :  251
+		num tangents       :  0
+		num uvs            :  502
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  129
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  73
+		num normals        :  73
+		num tangents       :  0
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  129
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  73
+		num normals        :  73
+		num tangents       :  0
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  129
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  43
+		num normals        :  43
+		num tangents       :  0
+		num uvs            :  86
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  75
+	processing begun of mesh:  Cylinder.003
+		processing begun of material:  Barrières
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1444
+		num normals        :  1444
+		num tangents       :  0
+		num uvs            :  2888
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2016
+	processing begun of mesh:  Cylinder.004
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  1168
+		num normals        :  1168
+		num tangents       :  0
+		num uvs            :  2336
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1632
+	processing begun of mesh:  Cylinder.005
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  272
+		num normals        :  272
+		num tangents       :  0
+		num uvs            :  544
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder.006
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  Cylinder.007
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  0
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  768
+	processing begun of mesh:  Cylinder.008
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  1087
+		num normals        :  1087
+		num tangents       :  0
+		num uvs            :  2174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1536
+	processing begun of mesh:  Cylinder.009
+		processing begun of material:  Barrières
+		registered as also a user of material:  Barrières
+		num positions      :  471
+		num normals        :  471
+		num tangents       :  0
+		num uvs            :  942
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Bord.001
+		registered as also a user of material:  Bord.001
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  0
+		num uvs            :  110
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.018
+		processing begun of material:  Bord.001
+		registered as also a user of material:  Bord.001
+		num positions      :  146
+		num normals        :  146
+		num tangents       :  0
+		num uvs            :  292
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  234
+	processing begun of mesh:  Cube.019
+		processing begun of material:  Bord.001
+		registered as also a user of material:  Bord.001
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Bord.001
+		registered as also a user of material:  Bord.001
+		num positions      :  57
+		num normals        :  57
+		num tangents       :  0
+		num uvs            :  114
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Bord.001
+		registered as also a user of material:  Bord.001
+		num positions      :  62
+		num normals        :  62
+		num tangents       :  0
+		num uvs            :  124
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  234
+		num normals        :  234
+		num tangents       :  0
+		num uvs            :  468
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  453
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Sol
+		processing begun of material:  Bord
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hight_city.Multimaterial#1
+		num positions      :  308
+		num normals        :  308
+		num tangents       :  0
+		num uvs            :  616
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.024
+		WARNING: No materials have been assigned: 
+		num positions      :  251
+		num normals        :  251
+		num tangents       :  0
+		num uvs            :  502
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+	processing begun of mesh:  Cube.025
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  206
+		num normals        :  206
+		num tangents       :  0
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  Cube.026
+		WARNING: No materials have been assigned: 
+		num positions      :  39
+		num normals        :  39
+		num tangents       :  0
+		num uvs            :  78
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  Cube.027
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Cube.028
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  206
+		num normals        :  206
+		num tangents       :  0
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  Cube.030
+		WARNING: No materials have been assigned: 
+		num positions      :  63
+		num normals        :  63
+		num tangents       :  0
+		num uvs            :  126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cylinder.010
+		WARNING: No materials have been assigned: 
+		num positions      :  372
+		num normals        :  372
+		num tangents       :  0
+		num uvs            :  744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  271
+		num normals        :  271
+		num tangents       :  0
+		num uvs            :  542
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  582
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Hight_city.Multimaterial#2
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Metal.001
+		processing begun of material:  Murs.001
+		processing begun of material:  Material.002
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hight_city.Multimaterial#3
+		num positions      :  423
+		num normals        :  423
+		num tangents       :  0
+		num uvs            :  846
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Metal.001
+		processing begun of material:  Murs.001
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs.001
+		processing begun of multimaterial:  Hight_city.Multimaterial#4
+		num positions      :  326
+		num normals        :  326
+		num tangents       :  0
+		num uvs            :  652
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  606
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Metal.001
+		processing begun of material:  Murs.001
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs.001
+		processing begun of multimaterial:  Hight_city.Multimaterial#5
+		num positions      :  167
+		num normals        :  167
+		num tangents       :  0
+		num uvs            :  334
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  195
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Metal.001
+		processing begun of material:  Murs.001
+		processing begun of material:  Metal.001
+		processing begun of material:  Material.003
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Murs.001
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture rubber
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  Hight_city.Multimaterial#6
+		num positions      :  212
+		num normals        :  212
+		num tangents       :  0
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  285
+	processing begun of mesh:  Plane
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Mur
+		registered as also a user of material:  Mur
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  24
+	processing begun of mesh:  Cube.032
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Hight_city.Multimaterial#7
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.033
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Hight_city.Multimaterial#8
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.034
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Hight_city.Multimaterial#9
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Mur
+		processing begun of material:  Neon
+			processing texture metal4
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Neon
+		processing begun of multimaterial:  Hight_city.Multimaterial#10
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.036
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.037
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.038
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.039
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.040
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.041
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.045
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Neon
+		registered as also a user of material:  Neon
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Point
+	processing begun of light (POINT):  Point.001
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cylinder
+	writing mesh:  Cube.005
+	writing mesh:  Cube.007
+	writing mesh:  Cube.010
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cylinder.003
+	writing mesh:  Cylinder.004
+	writing mesh:  Cylinder.005
+	writing mesh:  Cylinder.006
+	writing mesh:  Cylinder.007
+	writing mesh:  Cylinder.008
+	writing mesh:  Cylinder.009
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.028
+	writing mesh:  Cube.029
+	writing mesh:  Cube.030
+	writing mesh:  Cylinder.010
+	writing mesh:  Cylinder.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.008
+	writing mesh:  Cube.011
+	writing mesh:  Cube.009
+	writing mesh:  Cube.006
+	writing mesh:  Cube.002
+	writing mesh:  Plane
+	writing mesh:  Cube.031
+	writing mesh:  Cube.032
+	writing mesh:  Cube.033
+	writing mesh:  Cube.034
+	writing mesh:  Cube.035
+	writing mesh:  Cube.036
+	writing mesh:  Cube.037
+	writing mesh:  Cube.038
+	writing mesh:  Cube.039
+	writing mesh:  Cube.040
+	writing mesh:  Cube.041
+	writing mesh:  Cube.042
+	writing mesh:  Cube.043
+	writing mesh:  Cube.044
+	writing mesh:  Cube.045
+	writing mesh:  Cube.046
+	writing mesh:  Cube.047
+	writing mesh:  Cube.048
+	writing mesh:  Cube.049
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.7216 secs
